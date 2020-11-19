@@ -1,0 +1,32 @@
+[
+    
+      {
+          "id":"Mantenimiento",
+          "dato1":"Reportes",
+          "dato2":"Consulta",
+          "dato3":"Utilidades",
+          "dato4":""
+      },
+      {
+        "id":"Catalogo de Cuenta",
+          "dato1":"Estados Financieros",
+          "dato2":" ",
+          "dato3":" ",
+          "dato4":" "
+    },
+    {
+        "id":"Entrada de Diario",
+          "dato1":"Estado de Resultado",
+          "dato2":" ",
+          "dato3":" ",
+          "dato4":" "
+    },
+    {
+        "id":" ",
+          "dato1":" Movimiento de Cuenta",
+          "dato2":" ",
+          "dato3":" ",
+          "dato4":" "
+    }
+]
+  
